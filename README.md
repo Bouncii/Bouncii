@@ -9,9 +9,9 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 
 ## Projects
 
-- [A simulated prey/predator environment](https://github.com/Bouncii/Prey-Predator-Model-Without-Equations) made for analysis
+- [A simulated prey/predator environment](https://github.com/Bouncii/Prey-Predator-Model-Without-Equations) made for analysis.
 - [J.P.E.G](https://github.com/synnfall/JPEG), A website project for uni.
-- [Koffre](https://github.com/Bouncii/Koffre), A hide an seek game made in high school 
+- [Koffre](https://github.com/Bouncii/Koffre), A hide an seek game made in high school.
 
 ## Skills
 
