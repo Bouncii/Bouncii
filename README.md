@@ -7,11 +7,14 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 - ♟️​ I like to play chess from time to time
 - 💻​ wants to learn more language and try some things with AI
 
+## Projects
+
+- [A simulated prey/predator environment](https://github.com/Bouncii/Prey-Predator-Model-Without-Equations) made for analysis
+- [J.P.E.G](https://github.com/synnfall/JPEG) A website project for uni.
 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php)](https://skillicons.dev)
-
 
 
 <div align="center">
