@@ -5,7 +5,7 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 ## About Me
 - 📚​ Currently following a [Cursus master en ingénierie informatique (CMI)](https://formations.univ-smb.fr/fr/catalogue/licence-XA/sciences-technologies-sante-STS/cursus-master-en-ingenierie-informatique-KHXGP1NK.html)
 - ♟️​ I like to play chess from time to time
-- 💻​ wants to learn more language and try some things with AI
+- 💻​ wants to learn more language and try some new things with AI
 
 ## Projects
 
