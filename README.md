@@ -14,8 +14,13 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 - [Koffre](https://github.com/Bouncii/Koffre), A hide an seek game made in high school.
 
 ## Skills
+### Strong Basis
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,mysql,ocaml,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,mysql,git)](https://skillicons.dev)
+
+### Currently Learning 
+
+[![My Skills](https://skillicons.dev/icons?i=java,ocaml,react,laravel)](https://skillicons.dev)
 
 
 <div align="center">
