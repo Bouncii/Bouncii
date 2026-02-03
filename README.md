@@ -15,7 +15,7 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,java,mysql,ocaml,git)](https://skillicons.dev)
 
 
 <div align="center">
