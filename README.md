@@ -20,7 +20,7 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 
 ### Currently Learning 
 
-[![My Skills](https://skillicons.dev/icons?i=java,ocaml,react,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ocaml,react,laravel,nextjs)](https://skillicons.dev)
 
 
 <div align="center">
