@@ -16,11 +16,11 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 ## Skills
 ### Strong Basis
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,php,mysql,git,java)](https://skillicons.dev)
 
 ### Currently Learning 
 
-[![My Skills](https://skillicons.dev/icons?i=java,ocaml,react,laravel,nextjs,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ocaml,react,laravel,nextjs,c)](https://skillicons.dev)
 
 
 <div align="center">
