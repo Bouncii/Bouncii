@@ -22,10 +22,5 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 
 [![My Skills](https://skillicons.dev/icons?i=react,laravel,nextjs,tailwind)](https://skillicons.dev)
 
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=bouncii&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="125" alt="stats graph" /> -->
-  <img src="https://streak-stats.demolab.com?user=Bouncii&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="125" alt="streak graph" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bouncii&locale=en&hide_title=false&layout=compact&card_width=220&langs_count=6&theme=react&hide_border=false" height="125" alt="languages graph" /> -->
-</div>
+![Mes Statistiques GitHub](https://github-readme-stats-fast.vercel.app/api?username=Bouncii&show_icons=true&theme=transparent&title_color=69db7c&icon_color=69db7c&text_color=ffffff&border_color=ffffff&count_private=true)
 
