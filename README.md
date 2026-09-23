@@ -10,7 +10,7 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 ## Projects
 
 - [ElectroVeloStation](https://github.com/Bouncii/ElectroVeloStation), A bike company booking website project
-- [reinforcement-learning-bandits](https://github.com/Bouncii/MultiArmedBandit), Reinforcement learning algorithms for the multi-armed bandit problem applied to a simple Gomoku AI.
+- [reinforcement-learning-bandits](https://github.com/Bouncii/MultiArmedBandit), Reinforcement learning algorithms for the multi-armed bandit.
 - [A simulated prey/predator environment](https://github.com/Bouncii/Prey-Predator-Model-Without-Equations) made for analysis.
 - [J.P.E.G](https://github.com/synnfall/JPEG), A website project for uni.
 - [Koffre](https://github.com/Bouncii/Koffre), A hide an seek game made in high school.
