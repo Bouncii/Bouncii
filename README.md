@@ -18,7 +18,7 @@ Hi ! I'm a french student at Université Savoie Mont Blanc currently learning co
 ## Skills
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,php,mysql,c,java,ocaml)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,php,mysql,c,java,ocaml,kotlin)](https://skillicons.dev)
 
 ### Frameworks and libraries
 
